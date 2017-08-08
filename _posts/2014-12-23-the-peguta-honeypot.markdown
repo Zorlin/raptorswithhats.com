@@ -25,7 +25,7 @@ A single one of these things is excusable. Two might be forgivable. Three is sim
 
 Poking around a little more, I found that their "terms" link is dead - https://peguta.com/terms - red flags 4, 5 and 6. Finally, after creating a throwaway email account and signing up, I was greeted with this:
 
-{% img http://i7.minus.com/iQiq405sKeXP5.png %}
+[There used to be an image here, but it was hosted elsewhere and is now dead]
 
 Anyways, that's my rant. Thoughts?
 

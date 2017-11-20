@@ -4,6 +4,7 @@ title: "The Peguta Honeypot"
 date: 2014-12-23 20:18:37 -0500
 comments: true
 categories: [ security, honeypot, apache, password management ]
+published: false
 ---
 While searching for a way to enable LastPass to fill passwords for SSH sessions (yes - keys are better. I don't always get to use them, though) I ended up stumbling upon [this page](https://peguta.com/articles/lastpass-hacked).
 

@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Raptors With Hats
 email: benjamin@raptorswithhats.com
+timezone: Australia/Perth
 description: > # this means to ignore newlines until "baseurl:"
   A blog talking about informal subjects, coding, cryptocurrency
   and systems administration.
@@ -22,6 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raptorswithhats.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gnomethrower
 github_username:  Zorlin
+# Custom excerpt separator
+excerpt_separator: <!-- more -->
 
 # Build settings
 markdown: kramdown

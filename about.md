@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to Raptors With Hats. This is Benjamin Arntzen's personal blog.
+
+It's currently under construction and is powered by Jekyll and the Minima theme.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -16,3 +18,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+An older version of this blog based on OctoPress can be found on [GitHub](https://github.com/Zorlin/raptorswithhats.com-legacy/). I am in the process of copying posts from it, though not all of them will survive the move.

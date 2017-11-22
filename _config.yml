@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raptorswithhats.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gnomethrower
 github_username:  Zorlin
+permalink: /blog/:year/:month/:day/:title/
 # Custom excerpt separator
 excerpt_separator: <!-- more -->
 

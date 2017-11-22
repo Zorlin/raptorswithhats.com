@@ -11,6 +11,8 @@ You may notice that this blog and the content and code used to generate it are [
 
 Well, this is intentional.
 
+<!-- more -->
+
 I plan to make it a policy to keep as much of my blog and own infrastructure as open and transparent as possible. Why? I love sharing knowledge and have a passionate dislike of duplication of effort. Further, I think openness and transparency (when applied responsibly) can be a huge force for good. Finally, I don't believe keeping this stuff locked up actually improves security.
 
 If you have any questions, feel free to drop me a line.
